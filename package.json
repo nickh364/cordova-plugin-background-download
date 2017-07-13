@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-background-download",
+  "version": "0.0.2",
+  "description": "Cordova Background Download Plugin",
+  "main": "BackgroundDownloader.js",
+  "directories": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickh364/cordova-plugin-background-download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/nickh364/cordova-plugin-background-download/issues"
+  },
+  "homepage": "https://github.com/nickh364/cordova-plugin-background-download#readme"
+}
